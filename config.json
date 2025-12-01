@@ -18,22 +18,17 @@
       "api": "https://tyyszy.com/api.php/provide/vod",
       "name": "天涯资源"
     },
-    "ffzy": {
-      "api": "http://ffzy5.tv/api.php/provide/vod",
-      "name": "非凡影视",
-      "detail": "http://ffzy5.tv"
-    },
     "zy360": {
       "api": "https://360zy.com/api.php/provide/vod",
       "name": "360资源"
     },
     "maotaizy": {
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
-      "name": "茅台资源"
+      "name": "茅台资源（有广）"
     },
     "wolong": {
       "api": "https://wolongzyw.com/api.php/provide/vod",
-      "name": "卧龙资源"
+      "name": "卧龙资源（有广）"
     },
     "jisu": {
       "api": "https://jszyapi.com/api.php/provide/vod",
@@ -44,17 +39,9 @@
       "api": "https://dbzy.tv/api.php/provide/vod",
       "name": "豆瓣资源"
     },
-    "mozhua": {
-      "api": "https://mozhuazy.com/api.php/provide/vod",
-      "name": "魔爪资源"
-    },
     "mdzy": {
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "name": "魔都资源"
-    },
-    "zuid": {
-      "api": "https://api.zuidapi.com/api.php/provide/vod",
-      "name": "最大资源"
     },
     "yinghua": {
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
@@ -64,10 +51,6 @@
       "api": "https://api.wujinapi.me/api.php/provide/vod",
       "name": "无尽资源"
     },
-    "wwzy": {
-      "api": "https://wwzy.tv/api.php/provide/vod",
-      "name": "旺旺短剧"
-    },
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
@@ -75,10 +58,7 @@
     "lzi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源"
-    },
-    "bdzy": {
-      "api": "https://api.apibdzy.com/api.php/provide/vod",
-      "name": "百度资源"
     }
   }
+
 }
